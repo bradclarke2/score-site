@@ -1,0 +1,8 @@
+body,html {
+    height: 100%;
+  }
+user-image {
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+}
